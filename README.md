@@ -7,7 +7,4 @@
 - ⚡ At the moment, my active project is - [HiTe](https://github.com/SmaF1-dev/HiTe) project.
 - 💻 I write code in Python, JavaScript, SCSS, React.js/Next.js;
 - 🎓 ITMO University Student.
-  
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SmaF1-dev&" alt="SmaF1-dev" /></p>
-
 - 📫How to reach me - nikita_lyutyi@mail.ru
