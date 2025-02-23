@@ -8,3 +8,9 @@
   - 🎓 ITMO University Student.
   - 🔥 My Portfolio-site: [Portfolio](https://smaf1.vercel.app/)
   - 📫How to reach me - nikita_lyutyi@mail.ru
+<a href="https://github.com/smaf1-dev/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=smaf1-dev" />
+</a>
+<a href="https://github.com/smaf1-dev/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smaf1-dev&layout=compact&langs_count=8&card_width=320&hide=php" />
+</a>
