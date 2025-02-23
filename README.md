@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I’m Lyutyi Nikita
 
-<!--
-**SmaF1-dev/SmaF1-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SmaF1-dev&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true&include_all_commits=true" style="padding-top:23px;"/>
 
-Here are some ideas to get you started:
+- 👀 I’m interested in Web Development;
+- 🌱 I'm currently using full-featured development using Next.js, React.js, Facet api, PostgreSQL.
+- ⚡ At the moment, my active project is - [HiTe] (https://github.com/SmaF1-dev/HiTe) project.
+- 💻 I write code in Python, JavaScript, SCSS, React.js/Next.js;
+- 🎓 ITMO University Student.
+  
+<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SmaF1-dev&" alt="Vl-Tershch" /></p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫How to reach me - nikita_lyutyi@mail.ru
