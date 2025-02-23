@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web Development;
 - 🌱 I'm currently using full-featured development using Next.js, React.js, Facet api, PostgreSQL.
-- ⚡ At the moment, my active project is - [HiTe] (https://github.com/SmaF1-dev/HiTe) project.
+- ⚡ At the moment, my active project is - [HiTe](https://github.com/SmaF1-dev/HiTe) project.
 - 💻 I write code in Python, JavaScript, SCSS, React.js/Next.js;
 - 🎓 ITMO University Student.
   
