@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m Nikita Lyutyi
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SmaF1-dev&show_icons=true&icon_color=600fc8&text_color=3959ad&bg_color=161b22&count_private=true&include_all_commits=true" style="display: inline-block;"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SmaF1-dev&show_icons=true&icon_color=600fc8&text_color=3959ad&bg_color=161b22&count_private=true&include_all_commits=true"/>
+
   - 👀 I’m interested in Web-Development.
   - 🌱 I'm currently using full-featured development using Next.js, React.js, FastAPI, PostgreSQL.
   - ⚡ At the moment, my active project is - [HiTe](https://github.com/SmaF1-dev/HiTe) project.
