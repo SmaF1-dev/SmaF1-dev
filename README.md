@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Lyutyi Nikita
+## 👋 Hi, I’m Nikita Lyutyi
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SmaF1-dev&show_icons=true&icon_color=600fc8&text_color=3959ad&bg_color=161b22&count_private=true&include_all_commits=true" style="padding-top:23px;"/>
 
