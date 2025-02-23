@@ -6,5 +6,5 @@
 - 🎓 ITMO University Student.
 - 🔥 My Portfolio-site: [Portfolio](https://smaf1.vercel.app/)
 - 📫How to reach me - nikita_lyutyi@mail.ru
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SmaF1-dev&show_icons=true&icon_color=600fc8&text_color=3959ad&bg_color=161b22&count_private=true&include_all_commits=true" style="padding-top: 23px;"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmaF1-dev&hide=php&layout=compact" style="padding-top: 40px;">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SmaF1-dev&show_icons=true&icon_color=600fc8&text_color=3959ad&bg_color=161b22&count_private=true&include_all_commits=true" style="display: inline-block;"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmaF1-dev&hide=php&layout=compact" style="display: inline-block;">
