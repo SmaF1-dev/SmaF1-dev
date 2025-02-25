@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Nikita Lyutyi
   - 👀 I’m interested in Web-Development.
-  - 🌱 I'm currently using full-featured development using Next.js, React.js, FastAPI, PostgreSQL.
+  - 🌱 I'm currently using full-featured development using Next.js, React.js, FastAPI, PostgreSQL, Python.
   - ⚡ At the moment, my active project is - [HiTe](https://github.com/SmaF1-dev/HiTe) project.
   - 💻 I write code in Python, JavaScript, SCSS, React.js/Next.js.
   - 🎓 ITMO University Student.
