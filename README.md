@@ -10,5 +10,5 @@
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=smaf1-dev&show_icons=true&icon_color=600fc8&text_color=3959ad&bg_color=161b22&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/smaf1-dev">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smaf1-dev&layout=compact&langs_count=8&hide=php&card_width=320&icon_color=600fc8&text_color=3959ad&bg_color=161b22" />
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smaf1-dev&layout=compact&langs_count=8&hide=php&card_width=320&icon_color=600fc8&text_color=3959ad&bg_color=161b22" />
 </a>
