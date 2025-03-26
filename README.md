@@ -13,4 +13,8 @@
 <a href="https://github.com/smaf1-dev">
   <img height=200 width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smaf1-dev&layout=compact&langs_count=8&hide=php&card_width=320&icon_color=600fc8&text_color=3959ad&bg_color=161b22" />
 </a>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SmaF1-dev1&theme=dark)](https://git.io/streak-stats)
+<h3>🔥 Streak Stats</h3>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+      <img alt="SmaF1-dev's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=SmaF1-dev&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+  </p>
