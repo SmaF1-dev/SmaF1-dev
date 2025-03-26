@@ -1,5 +1,5 @@
 <h1>🙃 Whoami</h1>
-<h2> Nikita Lyutyi <h2>
+<h3> Nikita Lyutyi <h3>
 <h4>🔥 Web-Developer.</h4>
 <h4>🎓 ITMO University Student.</h4>
 <h4>⭐ Currently using full-featured development using Next.js, React.js, FastAPI, PostgreSQL.</h4>
