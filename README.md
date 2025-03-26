@@ -1,4 +1,5 @@
-## 🙃 Hi, I’m Nikita Lyutyi
+## 🙃 Whoami
+### Nikita Lyutyi
   - 🔥 I’m interested in Web-Development.
   - ⭐ I'm currently using full-featured development using Next.js, React.js, FastAPI, PostgreSQL.
   - ⚡ At the moment, my active project is - [HiTe](https://github.com/SmaF1-dev/HiTe) project.
