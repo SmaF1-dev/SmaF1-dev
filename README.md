@@ -1,13 +1,13 @@
 <h1>🙃 Whoami</h1>
 <h2> Nikita Lyutyi <h2>
   <ul>
-    <li><h3>🔥 Web-Developer.</h3></li>
-    <li><h3>🎓 ITMO University Student.</h3></li>
-    <li><h3>⭐ Currently using full-featured development using Next.js, React.js, FastAPI, PostgreSQL.</h3></li>
-    <li><h3>⚡ At the moment, active project is - [HiTe](https://github.com/SmaF1-dev/HiTe) project.</h3></li>
-    <li><h3>💻 I write code in Python, JavaScript, SCSS, React.js/Next.js.</h3></li>
-    <li><h3>💥 Portfolio-site: [Portfolio](https://smaf1.vercel.app/)</h3></li>
-    <li><h3>📫 How to reach me: nikita_lyutyi@mail.ru</h3></li>
+    <li><h4>🔥 Web-Developer.</h4></li>
+    <li><h4>🎓 ITMO University Student.</h4></li>
+    <li><h4>⭐ Currently using full-featured development using Next.js, React.js, FastAPI, PostgreSQL.</h4></li>
+    <li><h4>⚡ At the moment, active project is - [HiTe](https://github.com/SmaF1-dev/HiTe) project.</h4></li>
+    <li><h4>💻 I write code in Python, JavaScript, SCSS, React.js/Next.js.</h4></li>
+    <li><h4>💥 Portfolio-site: [Portfolio](https://smaf1.vercel.app/)</h4></li>
+    <li><h4>📫 How to reach me: nikita_lyutyi@mail.ru</h4></li>
   </ul>
   <br>
   <h2>📊 Stats and Activity</h2>
