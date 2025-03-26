@@ -19,5 +19,9 @@
   </p>
 
 <h3>💻 GitHub Profile Stats</h3>
-  <img alt="SmaF1-dev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SmaF1-dev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="SmaF1-dev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SmaF1-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <a href="https://github.com/smaf1-dev">
+    <img alt="SmaF1-dev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SmaF1-dev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>
+  <a href="https://github.com/smaf1-dev">
+    <img alt="SmaF1-dev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SmaF1-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </a>
