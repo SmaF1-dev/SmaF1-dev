@@ -6,7 +6,7 @@
 - ⚡ At the moment, active project is - [HiTe](https://github.com/SmaF1-dev/HiTe) project.
 - 💻 I write code in Python, JavaScript, SCSS, React.js/Next.js.
 - 💥 Portfolio-site: [Portfolio](https://smaf1.vercel.app/)
-- ## 📫 How to reach me: nikita_lyutyi@mail.ru
+- 📫 How to reach me: nikita_lyutyi@mail.ru
   <br>
 <details>
   <summary><h2>📊 Stats and Activity</h2></summary>
