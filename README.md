@@ -3,7 +3,7 @@
 - 🔥 Web-Developer.
 - 🎓 ITMO University Student.
 - ⭐ Currently using full-featured development using Next.js, React.js, FastAPI, PostgreSQL.
-- ⚡ At the moment, active project is - [HiTe](https://github.com/SmaF1-dev/HiTe) project.
+- ⚡ At the moment, active project is - [HiTe](https://github.com/SmaF1-dev/HiTe) and 1 secret project ^)
 - 💻 I write code in Python, JavaScript, SCSS, React.js/Next.js.
 - 💥 Portfolio-site: [Portfolio](https://smaf1.vercel.app/)
 - 📫 How to reach me: nikita_lyutyi@mail.ru
