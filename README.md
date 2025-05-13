@@ -20,6 +20,6 @@
       <img alt="SmaF1's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=smaf1-dev&show_icons=true&theme=dark&rank_icon=github" height="180px" />
     </a>
     <a href="https://github.com/smaf1-dev">
-      <img alt="SmaF1-dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaf1-dev&layout=compact&theme=dark&exclude_repo=HiTe" height="180px"/>
+      <img alt="SmaF1-dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaf1-dev&layout=compact&theme=dark" height="180px"/>
     </a>
 </details>
