@@ -1,5 +1,5 @@
 # Whoami
-### 🙃 Nikita Lyutyi
+## 🙃 Nikita Lyutyi
 - 🔥 Web-Developer.
 - 🎓 ITMO University Student.
 - ⭐ Currently using full-featured development using HTML5, SCSS, React.js/Next.js, FastAPI, PostgreSQL.
