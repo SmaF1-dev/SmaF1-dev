@@ -2,7 +2,7 @@
 ### 🙃 Nikita Lyutyi
 - 🔥 Web-Developer.
 - 🎓 ITMO University Student.
-- ⭐ Currently using full-featured development using HTML5, SCSS, React.js, FastAPI, PostgreSQL, Python.
+- ⭐ Currently using full-featured development using HTML5, SCSS, React.js, FastAPI, PostgreSQL, Python
 - ⚡ At the moment, last project is - [HiTe](https://github.com/SmaF1-dev/HiTe)
 - 💥 Portfolio-site: [Portfolio](https://smaf1.vercel.app/)
 - 📫 How to reach me: nikita_lyutyi@mail.ru
