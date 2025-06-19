@@ -2,7 +2,7 @@
 ### 🙃 Nikita Lyutyi
 - 🔥 Web-Developer
 - 🎓 ITMO University Student
-- ⚡ Usually use the following languages in development: HTML5, SCSS, React.js, Next.js, FastAPI, Python
+- ⚡ Usually use the following languages in development: HTML, SCSS, React.js, Next.js, FastAPI, Python
 - 💥 Portfolio-site: [Portfolio](https://smaf1.vercel.app/)
 - 📫 How to reach me: nikita_lyutyi@mail.ru
   <br>
