@@ -1,6 +1,6 @@
 # Whoami
 ### 🙃 Nikita Lyutyi
-- 🔥 Web-Developer
+- 🔥 Web-Developer.
 - 🎓 ITMO University Student
 - ⚡ Usually use the following languages in development: HTML5, SCSS, React.js, Next.js, FastAPI, Python
 - 💥 Portfolio-site: [Portfolio](https://smaf1.vercel.app/)
