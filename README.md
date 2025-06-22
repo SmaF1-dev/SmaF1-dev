@@ -15,6 +15,8 @@
 ![Git](https://img.shields.io/badge/-Git-D2691E?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/SmaF1-dev/SmaF1-dev/output/snake.svg" alt="Snake animation" />
+
   <br>
 <details>
   <summary><h2>📊 Stats and Activity</h2></summary>
