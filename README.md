@@ -9,15 +9,18 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" />
+<!--         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> -->
+      <br>React.js
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<!--         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> -->
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<!--         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> -->
       <br>JavaScript
     </td>
     <td align="center"  width="96">
@@ -41,7 +44,7 @@
       <br>VsCode
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
     <td align="center" width="96"> 
