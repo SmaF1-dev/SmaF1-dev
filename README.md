@@ -3,7 +3,7 @@
 - 🔥 Web-Developer
 - 🎓 ITMO University Student
 - ⚡ Portfolio-site: [Portfolio](https://smaf1.vercel.app/)
-- 📫 How to reach me: nikita_lyutyi@mail.ru
+- 📫 How to reach me: nikita_lyutyi@mail.ru.
 
 <div style="display: flex; align-items: flex-start; align: left">
 <table align="center">
