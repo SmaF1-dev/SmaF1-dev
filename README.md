@@ -1,6 +1,6 @@
 # Whoami
 ### 🙃 Nikita Lyutyi
-- 🔥 Web-Developer.
+- 🔥 Web-Developer
 - 🎓 ITMO University Student
 - ⚡ Portfolio-site: [Portfolio](https://smaf1.vercel.app/)
 - 📫 How to reach me: nikita_lyutyi@mail.ru
