@@ -1,4 +1,4 @@
-# Whoami
+# WhoAmI
 ### 🙃 Nikita Lyutyi
 - 🔥 Web-Developer
 - 🎓 ITMO University Student
