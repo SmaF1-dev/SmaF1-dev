@@ -51,7 +51,7 @@
  </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/SmaF1-dev/SmaF1-dev/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/SmaF1-dev/SmaF1-dev/output/snake.svg" alt="Snake animation" /> -->
 
   <br>
 <details>
