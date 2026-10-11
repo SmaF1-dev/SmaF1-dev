@@ -1,24 +1,24 @@
-# Whoami
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=40&pause=1000&color=F7F7F7&vCenter=true&width=500&height=40&lines=Whoami+%5E%3E.%3C%5E)](https://git.io/typing-svg)
+
 ### 🙃 Nikita Lyutyi
 - 🔥 Fullstack Web-Developer
 - 🎓 ITMO University Student
-- ⚡ Portfolio-site: [Portfolio](https://smaf1.vercel.app/)
-- 📫 How to reach me: nikita_lyutyi@mail.ru
+- 📫 How to reach me: [@SmaF1_1](https://t.me/SmaF1_1)
 
 <div style="display: flex; align-items: flex-start; align: left">
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" />
-      <br>React.js
+        <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="Golang" />
+      <br>Golang
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="CSS" />
-      <br>Golang
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" />
+      <br>React.js
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
